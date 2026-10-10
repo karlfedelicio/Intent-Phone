@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Intent Phone</string>
+    <string name="prompt_title">What's your intention?</string>
+    <string name="prompt_question_1">Why did you unlock your phone?</string>
+    <string name="prompt_hint_1">Type your intention...</string>
+    <string name="prompt_validation_msg_1">Please write at least 5 words about why you are using your phone.</string>
+    <string name="prompt_question_2">What exactly do you want to accomplish?</string>
+    <string name="prompt_hint_2">What do you want to get done?</string>
+    <string name="prompt_validation_msg_2">Please describe what you want to accomplish in at least 5 words.</string>
+    <string name="prompt_meaningless_msg">Please enter a meaningful intention.</string>
+    <string name="button_continue">Continue</string>
+    <string name="drawer_title">Available Applications</string>
+    <string name="friction_warning_title">Is this part of your intention?</string>
+    <string name="friction_warning_body">You unlocked your phone to: "%1$s". Opening %2$s may lead to mindless scrolling.</string>
+    <string name="reflection_title">Session Completed</string>
+    <string name="reflection_question">Did you accomplish what you set out to do?</string>
+</resources>
